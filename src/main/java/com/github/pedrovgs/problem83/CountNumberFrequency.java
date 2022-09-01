@@ -1,3 +1,5 @@
+package com.github.pedrovgs.problem83;
+
 import java.util.*;
 
 public class CountNumberFrequency {

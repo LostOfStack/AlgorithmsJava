@@ -1,3 +1,5 @@
+package com.github.pedrovgs.problem83;
+
 import static org.junit.Assert.*;
 import java.util.*;
 
