@@ -1,3 +1,5 @@
+package com.github.pedrovgs.problem82;
+
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
